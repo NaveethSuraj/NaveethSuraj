@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I am Naveeth, <br>Microsoft certified data analyst with 2+ years of experience in the IT industry. <br>Proven ability to use data to solve business problems.<br>Developed and maintained Power BI dashboards to visualize core business KPIs, saving 10 hours per week of manual reporting work.<br>
+Hey, I am Naveeth, <br>Microsoft certified data analyst with 3+ years of experience in the IT industry. <br>Proven ability to use data to solve business problems.<br>Developed and maintained Power BI dashboards to visualize core business KPIs, saving 10 hours per week of manual reporting work.<br>
 
 
 ## 🌐 Socials:
